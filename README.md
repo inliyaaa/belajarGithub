@@ -1,5 +1,4 @@
 # belajarGithub
 Kita akan belajar github
 
-
-Mencoba pull request (PR) dari fork
+Mencoba Pull Request dari Inliya melalu Fork
